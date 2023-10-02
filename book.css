@@ -1,0 +1,11 @@
+
+.dev{
+width: 400px;
+height: 100px;
+padding: 20px rgb(237, 114, 251);
+border: 6px solid rgb(130, 125, 188);
+margin: 20px rgb(132, 190, 234);
+background-color: rgb(199, 222, 25);
+box-sizing: border-box 20px;
+text-align: center;
+}
